@@ -1,6 +1,6 @@
 ﻿# SpaceInvaders-Python
 
-Demo and simplified version of space invaders in order to test the library pygame capabilities.
+Demo and simplified version of space invaders in order to test the pygame library capabilities.
 
 This game has learning purposes so feel free to copy and distribute it.
 
